@@ -10,6 +10,10 @@ Analyze the historic Nobel Prize dataset from 1901 - 2019 to highlight the achie
 
 `Microsoft Excel`
 
+## Dashboard
+
+![dashboard](<https://github.com/aj-menon/Onyx-Data-DNA/blob/master/Nobel%20Prize(1901-2019)/women_in_science.png?raw=true>)
+
 ## Acknowledgements
 
 Women scientists image courtesy - Wikipedia
